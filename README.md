@@ -3,7 +3,7 @@ Lisker avatar API service, returns a lisker image based upon a given lisker Id.
 
 ### Example calls
 
-Http cals are in the format:
+Http calls are in the format:
 
 `https://api.lisker.io/liskerid/[id]?size=[size]`
 
