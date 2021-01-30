@@ -1,0 +1,9 @@
+{
+  "name": "lisker-avatar-viewer",
+  "description": "React component to view a Lisker avatar.",
+  "version": "1.0.0",
+  "author": "Korben3 (info@korben3.com), Xding78",
+  "homepage": "http://lisker.io",
+  "license": "MIT",
+  "main": "index.js"
+}
