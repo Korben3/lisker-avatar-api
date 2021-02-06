@@ -5,7 +5,7 @@ Lisker avatar API service, returns a lisker image based upon a given lisker Id.
 
 Http calls are in the format:
 
-`https://api.lisker.io/liskerid/[id]?size=[size]`
+`http://136.244.102.229:8030/liskerid/[id]?size=[size]`
 
 For example:
 
